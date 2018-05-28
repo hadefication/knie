@@ -1,2 +1,1 @@
-# knie
-E-Ink Theme of VS Code
+# E Ink Theme for VS Code
