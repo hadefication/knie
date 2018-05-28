@@ -1,0 +1,22 @@
+{
+    "name": "knie",
+    "displayName": "E Ink Theme",
+    "description": "knie",
+    "version": "0.0.1",
+    "publisher": "hadefication",
+    "engines": {
+        "vscode": "^1.23.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "knie",
+                "uiTheme": "vs-light",
+                "path": "./themes/knie-color-theme.json"
+            }
+        ]
+    }
+}
