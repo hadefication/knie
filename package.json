@@ -13,9 +13,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "knie",
-                "uiTheme": "vs-light",
-                "path": "./themes/knie-color-theme.json"
+                "label": "E Ink Light (Knie)",
+                "uiTheme": "vs-knie-light",
+                "path": "./themes/knie-light-theme.json"
+            },
+            {
+                "label": "E Ink Dark (Knie)",
+                "uiTheme": "vs-knie-dark",
+                "path": "./themes/knie-dark-theme.json"
             }
         ]
     }
